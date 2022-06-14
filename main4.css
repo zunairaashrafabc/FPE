@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v11_461 {
+  width: 100%;
+  height: 688px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_462 {
+  width: 100%;
+  height: 688px;
+  background: url("../images/v11_462.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_463 {
+  width: 709px;
+  height: 411px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 138px;
+  left: 212px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v11_464 {
+  width: 393px;
+  height: 59px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 167px;
+  left: 382px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  overflow: hidden;
+}
+.v11_465 {
+  width: 342px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 178px;
+  left: 408px;
+  color: black;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 30px;
+  opacity: 1;
+  text-align: center;
+}
+
+.v11_470{
+  width: 450px;
+  height: 250px;
+  background: url("../images/predicted.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 230px;
+  left: 350px;
+  overflow: hidden;
+}
+
+.v11_547 {
+  width: 99px;
+  height: 39px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 486px;
+  left: 248px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  overflow: hidden;
+}
+.v11_548{
+  width: 57px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 493px;
+  left: 275px;
+  font-family: Inter;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+  text-decoration: none;
+}
+
